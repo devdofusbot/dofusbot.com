@@ -17,7 +17,7 @@ Gain de temps et amélioration de l’efficacité
 
 Outils fiables, performants et évolutifs
 
-🌐 Site officiel : https://dofusbot.com
+🌐 Site officiel : https://Kamasbot.com
 
 🛠️ Domaines de compétences
 
